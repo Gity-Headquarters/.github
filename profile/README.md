@@ -16,4 +16,8 @@ Aplikasi Food Bank adalah solusi inovatif yang dirancang untuk membantu mengatas
 ## Tampilan Admin Foodbank
 <img  src="/web/web1.png"  width="100%"   alt ="FoodBank">
 <img  src="/web/web2.png"  width="100%"   alt ="FoodBank">
+<img  src="/web/web3.png"  width="100%"   alt ="FoodBank">
+<img  src="/web/web4.png"  width="100%"   alt ="FoodBank">
+<img  src="/web/web5.png"  width="100%"   alt ="FoodBank">
+<img  src="/web/web6.png"  width="100%"   alt ="FoodBank">
 
