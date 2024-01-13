@@ -22,11 +22,22 @@ Aplikasi Food Bank adalah solusi inovatif yang dirancang untuk membantu mengatas
 <img  src="/web/web6.png"  width="100%"   alt ="FoodBank">
 
 
+
 ## Tampilan User Mobile
-<img  src="/mobile/mobile1.jpg"     alt ="FoodBank">
-<img  src="/mobile/mobile2.jpg"     alt ="FoodBank">
-<img  src="/mobile/mobile3.jpg"     alt ="FoodBank">
-<img  src="/mobile/mobile4.jpg"     alt ="FoodBank">
-<img  src="/mobile/mobile5.jpg"     alt ="FoodBank">
-<img  src="/mobile/mobile6.jpg"     alt ="FoodBank">
+
+<div>
+    <div">
+        <img src="/mobile/mobile1.jpg" width="414" height="896" alt="FoodBank">
+        <img src="/mobile/mobile2.jpg" width="414" height="896" alt="FoodBank">
+    </div>
+    <div>
+        <img src="/mobile/mobile3.jpg" width="414" height="896" alt="FoodBank">
+        <img src="/mobile/mobile4.jpg" width="414" height="896" alt="FoodBank">
+    </div>
+    <div>
+        <img src="/mobile/mobile5.jpg" width="414" height="896" alt="FoodBank">
+        <img src="/mobile/mobile6.jpg" width="414" height="896" alt="FoodBank">
+    </div>
+</div>
+
 
