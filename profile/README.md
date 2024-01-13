@@ -22,7 +22,7 @@ Aplikasi Food Bank adalah solusi inovatif yang dirancang untuk membantu mengatas
 <img  src="/web/web6.png"  width="100%"   alt ="FoodBank">
 
 
-
+---
 ## Tampilan User Mobile
 
 <div>
@@ -39,5 +39,6 @@ Aplikasi Food Bank adalah solusi inovatif yang dirancang untuk membantu mengatas
         <img src="/mobile/mobile6.jpg" width="414" height="896" alt="FoodBank">
     </div>
 </div>
+
 
 
