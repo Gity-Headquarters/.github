@@ -39,6 +39,7 @@ Aplikasi Food Bank adalah solusi inovatif yang dirancang untuk membantu mengatas
         <img src="/mobile/mobile6.jpg" width="414" height="896" alt="FoodBank">
     </div>
 </div>
+---
 
 ## Backend JS
 - link Postman `https://www.postman.com/restless-station-764528/workspace/food-bank-workspace/overview`
