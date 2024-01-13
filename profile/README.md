@@ -1,4 +1,4 @@
-<img align="center" src="./foodbank.svg"  width="100%" height= "140"  alt ="FoodBank">
+<img  src="/profile/foodbank.svg"  width="100%" height= "140"  alt ="FoodBank">
 
 ## Deskripsi Project
 Aplikasi Food Bank adalah solusi inovatif yang dirancang untuk membantu mengatasi masalah kelaparan dan meningkatkan akses masyarakat terhadap makanan. Aplikasi ini memfasilitasi penyediaan makanan gratis, menyediakan informasi tentang pos-pos penyedia makanan, jadwal distribusi, dan memberikan opsi bagi donatur untuk memberikan kontribusi.
