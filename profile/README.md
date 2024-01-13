@@ -13,7 +13,7 @@ Aplikasi Food Bank adalah solusi inovatif yang dirancang untuk membantu mengatas
 - **Notifikasi**: Terima pemberitahuan tentang pos baru, jadwal acara, atau informasi penting lainnya.
 - **Sistem Umpan Balik**: Berikan umpan balik pengguna untuk meningkatkan kualitas layanan.
 
-## Tampilan Admin Foodbank
+## Tampilan Admin Web
 <img  src="/web/web1.png"  width="100%"   alt ="FoodBank">
 <img  src="/web/web2.png"  width="100%"   alt ="FoodBank">
 <img  src="/web/web3.png"  width="100%"   alt ="FoodBank">
@@ -21,3 +21,5 @@ Aplikasi Food Bank adalah solusi inovatif yang dirancang untuk membantu mengatas
 <img  src="/web/web5.png"  width="100%"   alt ="FoodBank">
 <img  src="/web/web6.png"  width="100%"   alt ="FoodBank">
 
+
+## Tampilan User Mobile
