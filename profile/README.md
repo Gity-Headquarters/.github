@@ -13,7 +13,7 @@ Aplikasi Food Bank adalah solusi inovatif yang dirancang untuk membantu mengatas
 - **Notifikasi**: Terima pemberitahuan tentang pos baru, jadwal acara, atau informasi penting lainnya.
 - **Sistem Umpan Balik**: Berikan umpan balik pengguna untuk meningkatkan kualitas layanan.
 
-## Tampilan Admin Web
+## Admin Website
 <img  src="/web/web1.png"  width="100%"   alt ="FoodBank">
 <img  src="/web/web2.png"  width="100%"   alt ="FoodBank">
 <img  src="/web/web3.png"  width="100%"   alt ="FoodBank">
@@ -23,7 +23,7 @@ Aplikasi Food Bank adalah solusi inovatif yang dirancang untuk membantu mengatas
 
 
 ---
-## Tampilan User Mobile
+## User Mobile
 
 <div>
     <div">
@@ -39,3 +39,23 @@ Aplikasi Food Bank adalah solusi inovatif yang dirancang untuk membantu mengatas
         <img src="/mobile/mobile6.jpg" width="414" height="896" alt="FoodBank">
     </div>
 </div>
+
+## Backend JS
+- link Postman `https://www.postman.com/restless-station-764528/workspace/food-bank-workspace/overview`
+
+- endpoint API : 
+1. login `https://backend-dot-food-bank-410807.et.r.appspot.com/auth/login`
+2. register `https://backend-dot-food-bank-410807.et.r.appspot.com/auth/register`
+3. create Booth `https://backend-dot-food-bank-410807.et.r.appspot.com/booth`
+4. list booth `https://backend-dot-food-bank-410807.et.r.appspot.com/booth`
+5. edit booth `https://backend-dot-food-bank-410807.et.r.appspot.com/booth/:id`
+6. delete booth `https://backend-dot-food-bank-410807.et.r.appspot.com/booth/:id`
+7. create food `https://backend-dot-food-bank-410807.et.r.appspot.com/food`
+8. create transaction `https://backend-dot-food-bank-410807.et.r.appspot.com/transaction`
+9. update transaction `https://backend-dot-food-bank-410807.et.r.appspot.com/transaction/:transactionId`
+10. get all transaction user `https://backend-dot-food-bank-410807.et.r.appspot.com/transaction/user/:userGuid` 
+11. get transaction booth `https://backend-dot-food-bank-410807.et.r.appspot.com/transaction/booth/:boothGuid`
+12. get detail transaction  `https://backend-dot-food-bank-410807.et.r.appspot.com/transaction/:transactionGuid`
+
+---
+**Food Bank App** © 2024, Tim Gity. Dikembangkan oleh Gity Headquarters.
