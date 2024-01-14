@@ -6,12 +6,12 @@ Aplikasi Food Bank adalah solusi inovatif yang dirancang untuk membantu mengatas
 
 ### Aplikasi Mobile
 - https://storage.googleapis.com/foodbank-assets/app-debug.apk
-Email & Password Login
+#### Email & Password Login
 - Email : usertest@test.com
 - Password : securepassword
 ### Aplikasi WEB
 - https://web-food-bank.vercel.app
-Email & Password Login
+#### Email & Password Login
 - Email : usertest@test.com
 - Password : securepassword
 
