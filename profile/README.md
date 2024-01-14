@@ -13,6 +13,22 @@ Aplikasi Food Bank adalah solusi inovatif yang dirancang untuk membantu mengatas
 - **Notifikasi**: Terima pemberitahuan tentang pos baru, jadwal acara, atau informasi penting lainnya.
 - **Sistem Umpan Balik**: Berikan umpan balik pengguna untuk meningkatkan kualitas layanan.
 
+## Login Website
+
+`
+{
+    "email": "usertest@test.com",
+    "password": "securepassword"
+}
+`
+
+## Login Mobile
+
+`
+ "email": "usertest@test.com",
+    "password": "securepassword"
+`
+
 ## Admin Website
 <img  src="/web/web1.png"  width="100%"   alt ="FoodBank">
 <img  src="/web/web2.png"  width="100%"   alt ="FoodBank">
