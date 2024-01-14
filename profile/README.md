@@ -3,6 +3,22 @@
 ## Deskripsi Project
 Aplikasi Food Bank adalah solusi inovatif yang dirancang untuk membantu mengatasi masalah kelaparan dan meningkatkan akses masyarakat terhadap makanan. Aplikasi ini memfasilitasi penyediaan makanan gratis, menyediakan informasi tentang pos-pos penyedia makanan, jadwal distribusi, dan memberikan opsi bagi donatur untuk memberikan kontribusi.
 
+
+### Aplikasi Mobile
+- https://storage.googleapis.com/foodbank-assets/app-debug.apk
+Email & Password Login
+- Email : usertest@test.com
+- Password : securepassword
+### Aplikasi WEB
+- https://web-food-bank.vercel.app
+Email & Password Login
+- Email : usertest@test.com
+- Password : securepassword
+
+### Postman Link
+- https://www.postman.com/restless-station-764528/workspace/food-bank-workspace/overview
+
+
 ## Fitur Utama
 - **Pencarian Pos Penyedia Makanan**: Cari pos penyedia makanan berdasarkan lokasi atau tanggal.
 - **Peta Interaktif**: Temukan pos penyedia makanan di sekitar Anda dengan peta interaktif.
