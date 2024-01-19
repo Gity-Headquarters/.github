@@ -1,36 +1,33 @@
-<img  src="/profile/foodbank.svg"  width="100%" height= "140"  alt ="FoodBank">
+# FoodBank <img src="/profile/foodbank.svg" width="100%" height="140" alt="FoodBank">
 
-## Deskripsi Project
-Aplikasi Food Bank adalah solusi inovatif yang dirancang untuk membantu mengatasi masalah kelaparan dan meningkatkan akses masyarakat terhadap makanan. Aplikasi ini memfasilitasi penyediaan makanan gratis, menyediakan informasi tentang pos-pos penyedia makanan, jadwal distribusi, dan memberikan opsi bagi donatur untuk memberikan kontribusi.
+## Project Description
+The Food Bank application is an innovative solution designed to help address hunger issues and improve community access to food. This application facilitates the provision of free food, provides information about food provider locations, distribution schedules, and offers options for donors to contribute.
 
-
-### Aplikasi Mobile
-- https://storage.googleapis.com/foodbank-assets/app-debug.apk
-#### Email & Password Login
-- Email : usertest@test.com
-- Password : securepassword
-### Aplikasi WEB
-- https://web-food-bank.vercel.app
-#### Email & Password Login
-- Email : usertest@test.com
-- Password : securepassword
+### Mobile Application
+- [Download Mobile App](https://storage.googleapis.com/foodbank-assets/app-debug.apk)
+#### Email & Password for Login
+- Email: usertest@test.com
+- Password: securepassword
+### Web Application
+- [Access Web App](https://web-food-bank.vercel.app)
+#### Email & Password for Login
+- Email: usertest@test.com
+- Password: securepassword
 
 ### Postman Link
-- https://www.postman.com/restless-station-764528/workspace/food-bank-workspace/overview
+- [Food Bank Postman Workspace](https://www.postman.com/restless-station-764528/workspace/food-bank-workspace/overview)
 
+## Key Features
+- **Food Provider Search**: Search for food provider locations based on location or date.
+- **Interactive Map**: Find food provider locations around you with an interactive map.
+- **Food Provider Information**: View details of food provider locations, including address, operating hours, and types of food provided.
+- **Event Schedule**: Plan your visit by checking upcoming event schedules.
+- **Food Provider Registration and Verification**: Facilitate food providers in registering and getting verified.
+- **Donations**: Contribute in the form of money or goods.
+- **Notifications**: Receive notifications about new locations, event schedules, or other important information.
+- **Feedback System**: Provide user feedback to enhance the quality of service.
 
-## Fitur Utama
-- **Pencarian Pos Penyedia Makanan**: Cari pos penyedia makanan berdasarkan lokasi atau tanggal.
-- **Peta Interaktif**: Temukan pos penyedia makanan di sekitar Anda dengan peta interaktif.
-- **Informasi Pos Penyedia Makanan**: Lihat detail pos penyedia makanan, termasuk alamat, jam operasional, dan jenis makanan yang disediakan.
-- **Jadwal Acara**: Rencanakan kunjungan Anda dengan melihat jadwal acara mendatang.
-- **Pendaftaran dan Verifikasi Pos Penyedia Makanan**: Memudahkan penyedia makanan untuk mendaftar dan diverifikasi.
-- **Donasi**: Berikan kontribusi baik dalam bentuk uang atau barang.
-- **Notifikasi**: Terima pemberitahuan tentang pos baru, jadwal acara, atau informasi penting lainnya.
-- **Sistem Umpan Balik**: Berikan umpan balik pengguna untuk meningkatkan kualitas layanan.
-
-## Login Website
-
+## Website Login
 `
 {
     "email": "usertest@test.com",
@@ -88,6 +85,42 @@ Aplikasi Food Bank adalah solusi inovatif yang dirancang untuk membantu mengatas
 10. get all transaction user `https://backend-dot-food-bank-410807.et.r.appspot.com/transaction/user/:userGuid` 
 11. get transaction booth `https://backend-dot-food-bank-410807.et.r.appspot.com/transaction/booth/:boothGuid`
 12. get detail transaction  `https://backend-dot-food-bank-410807.et.r.appspot.com/transaction/:transactionGuid`
+
+
+## Installation Application Back End
+
+To Installation this project run
+
+```bash
+  npm install
+```
+
+- after that, create an .env file, you can copy all the contents from .env.example
+
+-  then run it
+```bash
+  npm run dev
+```
+you don't need to think about databases and other configurations
+
+
+## Installation Application Front End
+
+To Installation this project run
+
+```bash
+  npm install
+```
+
+- after that, create an .env file, you can copy all the contents from .env.example
+
+-  then run it
+```bash
+  npm run start
+```
+you don't need to think about databases and other configurations
+
+
 
 ---
 **Food Bank App** © 2024, Tim Gity. Dikembangkan oleh Gity Headquarters.
