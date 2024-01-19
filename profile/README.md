@@ -1,4 +1,4 @@
-# FoodBank <img src="/profile/foodbank.svg" width="100%" height="140" alt="FoodBank">
+# <img src="/profile/foodbank.svg" width="100%" height="140" alt="FoodBank">
 
 ## Project Description
 The Food Bank application is an innovative solution designed to help address hunger issues and improve community access to food. This application facilitates the provision of free food, provides information about food provider locations, distribution schedules, and offers options for donors to contribute.
